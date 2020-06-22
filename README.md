@@ -3,7 +3,7 @@ Material desenvolvido durante o curso:
 
 ### Construindo páginas para internet com Bootstrap
 
-![](https://i.imgur.com/3xdXfWw.png)
+![](https://i.imgur.com/3xdXfWw.png?1)
 
 Oferecido por: 
 
